@@ -110,7 +110,7 @@ Run the interpreter on a file:
   - Switches a queue to stack mode.
 
 - **queue**
-  - Switches a stack to queue mode.
+  - Switches a stack to queue mode
 
 ## :blue_book: Author
 
